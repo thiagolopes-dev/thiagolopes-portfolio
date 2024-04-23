@@ -1,0 +1,37 @@
+# Ignorar a pasta .next gerada pelo Next.js
+.next/
+
+# Ignorar arquivos de build
+out/
+
+# Ignorar o arquivo de cache de dependências do Yarn
+.yarn/
+
+# Ignorar arquivos de dependências
+node_modules/
+
+# Ignorar arquivos de ambiente local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignorar arquivos de cache do eslint
+.eslintcache
+
+# Ignorar arquivos de cache do Jest
+.jest/
+
+# Ignorar arquivos de build do Visual Studio Code
+.vscode/
+
+# Ignorar arquivos de build do WebStorm
+.idea/
+
+# Ignorar arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar arquivos de sistema
+.DS_Store
