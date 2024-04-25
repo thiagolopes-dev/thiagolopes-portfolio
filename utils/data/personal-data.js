@@ -11,5 +11,7 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/thiagoolopes/',
   instagram: 'https://www.instagram.com/thiagolopes.dev/',
   twitter: 'https://twitter.com/thiagolopes_dev',
-  resume: "https://drive.google.com/file/d/1qrwWfyWtynEGkW1yMcvJAIdLBktOc61P/view?usp=drive_link"
+  devUsername: "thiagoolopess",
+  resume: "https://drive.google.com/file/d/1qrwWfyWtynEGkW1yMcvJAIdLBktOc61P/view?usp=drive_link",
+ 
 }
