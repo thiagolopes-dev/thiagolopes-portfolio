@@ -1,24 +1,7 @@
-const path = require('path');
+const nextConfig =  {
+  skipTrailingSlashRedirect: true,
+  trailingSlash: true,
+  output: 'export'
+}
 
-module.exports = {
-  async headers() {
-    return [
-      {
-        // Define o favicon no cabeçalho HTML
-        source: '/app/favicon.ico',
-        headers: [
-          {
-            key: 'link',
-            value: '<link rel="icon" href="/app/favicon.ico" />',
-          },
-        ],
-      },
-    ];
-  },
-  sassOptions: {
-    includePaths: [path.join(__dirname, 'styles')],
-  },
-  images: {
-    domains: ['res.cloudinary.com', 'media.dev.to']
-  }
-};
+module.exports = nextConfig
