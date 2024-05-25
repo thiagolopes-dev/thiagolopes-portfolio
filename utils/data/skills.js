@@ -1,27 +1,37 @@
 export const skillsData = [
-  'HTML',
-  'CSS',
-  'Bootstrap',
-  'Typescript',
-  'Nestjs',
-  'Angular',
-  'Ionic',
-  'Capacitor',
-  'Flutter',
-  'MongoDB',
-  'MySQL',
-  'Firebase',
-  'Git',
-  'Linux',
-  'Python',
-  'Docker',
-  'Nginx',
-  'Strapi'
-]
+  "HTML",
+  "CSS",
+  "Bootstrap",
+  "Typescript",
+  "Nestjs",
+  "Angular",
+  "Ionic",
+  "Capacitor",
+  "Flutter",
+  "Flutterflow",
+  'Android',
+  'iOS',
+  "DBeaver",
+  "MySQL",
+  "MariaDB",
+  "MongoDB",
+  "Supabase",
+  "Git",
+  "Ubuntu",
+  "Debian",
+  "Python",
+  "Docker",
+  "Nginx",
+  "Strapi",
+  "Django",
+  "Photoshop",
+  "Lightroom",
+  "Canva",
+  "Wordpress"
+];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
 // Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
-
 
 // AVAILABLE SKILLS
 

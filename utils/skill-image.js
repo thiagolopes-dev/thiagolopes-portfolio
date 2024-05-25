@@ -1,6 +1,7 @@
 import * as adobeXd from "/public/svg/skills/adobe-xd.svg";
 import adobeaudition from "/public/svg/skills/adobeaudition.svg";
 import afterEffects from "/public/svg/skills/after-effects.svg";
+import android from "/public/svg/skills/android.svg";
 import angular from "/public/svg/skills/angular.svg";
 import aws from "/public/svg/skills/aws.svg";
 import azure from "/public/svg/skills/azure.svg";
@@ -16,6 +17,8 @@ import cplusplus from "/public/svg/skills/cplusplus.svg";
 import csharp from "/public/svg/skills/csharp.svg";
 import css from "/public/svg/skills/css.svg";
 import dart from "/public/svg/skills/dart.svg";
+import dbeaver from "/public/svg/skills/dbeaver.png";
+import debian from "/public/svg/skills/debian.svg";
 import deno from "/public/svg/skills/deno.svg";
 import django from "/public/svg/skills/django.svg";
 import docker from "/public/svg/skills/docker.svg";
@@ -23,6 +26,7 @@ import fastify from "/public/svg/skills/fastify.svg";
 import figma from "/public/svg/skills/figma.svg";
 import firebase from "/public/svg/skills/firebase.svg";
 import flutter from "/public/svg/skills/flutter.svg";
+import flutterflow from "/public/svg/skills/flutterflow.png";
 import gcp from "/public/svg/skills/gcp.svg";
 import gimp from "/public/svg/skills/gimp.svg";
 import git from "/public/svg/skills/git.svg";
@@ -32,12 +36,14 @@ import haxe from "/public/svg/skills/haxe.svg";
 import html from "/public/svg/skills/html.svg";
 import illustrator from "/public/svg/skills/illustrator.svg";
 import ionic from "/public/svg/skills/ionic.svg";
+import ios from "/public/svg/skills/ios.svg";
 import java from "/public/svg/skills/java.svg";
 import javascript from "/public/svg/skills/javascript.svg";
 import julia from "/public/svg/skills/julia.svg";
 import kotlin from "/public/svg/skills/kotlin.svg";
 import lightroom from "/public/svg/skills/lightroom.svg";
 import linux from "/public/svg/skills/linux.svg";
+import mariadb from "/public/svg/skills/mariadb.svg";
 import markdown from "/public/svg/skills/markdown.svg";
 import materialui from "/public/svg/skills/materialui.svg";
 import matlab from "/public/svg/skills/matlab.svg";
@@ -63,11 +69,13 @@ import ruby from "/public/svg/skills/ruby.svg";
 import selenium from "/public/svg/skills/selenium.svg";
 import sketch from "/public/svg/skills/sketch.svg";
 import strapi from "/public/svg/skills/strapi.svg";
+import supabase from "/public/svg/skills/supabase.svg";
 import svelte from "/public/svg/skills/svelte.svg";
 import swift from "/public/svg/skills/swift.svg";
 import tailwind from "/public/svg/skills/tailwind.svg";
 import tensorflow from "/public/svg/skills/tensorflow.svg";
 import typescript from "/public/svg/skills/typescript.svg";
+import ubuntu from "/public/svg/skills/ubuntu.svg";
 import unity from "/public/svg/skills/unity.svg";
 import vitejs from "/public/svg/skills/vitejs.svg";
 import vue from "/public/svg/skills/vue.svg";
@@ -233,6 +241,22 @@ export const skillsImage = (skill) => {
       return nestjs;
     case "capacitor":
       return capacitor;
+    case "supabase":
+      return supabase;
+    case "flutterflow":
+      return flutterflow;
+    case "ubuntu":
+      return ubuntu;
+    case "debian":
+      return debian;
+    case "android":
+      return android;
+    case "ios":
+      return ios;
+    case "mariadb":
+      return mariadb;
+    case "dbeaver":
+      return dbeaver;
     default:
       break;
   }
