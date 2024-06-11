@@ -74,6 +74,7 @@ import svelte from "/public/svg/skills/svelte.svg";
 import swift from "/public/svg/skills/swift.svg";
 import tailwind from "/public/svg/skills/tailwind.svg";
 import tensorflow from "/public/svg/skills/tensorflow.svg";
+import typebot from "/public/svg/skills/typebot.svg";
 import typescript from "/public/svg/skills/typescript.svg";
 import ubuntu from "/public/svg/skills/ubuntu.svg";
 import unity from "/public/svg/skills/unity.svg";
@@ -257,6 +258,8 @@ export const skillsImage = (skill) => {
       return mariadb;
     case "dbeaver":
       return dbeaver;
+    case "typebot":
+      return typebot;
     default:
       break;
   }
