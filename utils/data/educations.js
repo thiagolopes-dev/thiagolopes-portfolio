@@ -2,7 +2,7 @@ export const educations = [
   {
     id: 1,
     title: "Pós Graduação em Segurança de Redes",
-    duration: "2024 - Cursando",
+    duration: "2024",
     institution: "Universidade Anhanguera",
   },
   {
