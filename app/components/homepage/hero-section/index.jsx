@@ -26,7 +26,7 @@ function HeroSection() {
             <span className=" text-blue-500">{personalData.name}</span>
             {` , atuo como `}
             <span className=" text-[#16f2b3]">{personalData.designation}</span>
-            .
+            
           </h1>
           {/* <h1 className="text-3xl font-bold leading-10 text-white md:font-extrabold lg:text-[2.6rem] lg:leading-[3.5rem]">
           <span className=" text-[#16f2b3]">{personalData.designation}</span>
