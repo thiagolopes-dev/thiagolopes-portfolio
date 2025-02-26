@@ -2,7 +2,7 @@ export const personalData = {
   name: "Thiago Lopes",
   profile: '/profile.jpeg',
   designation: "Desenvolvedor de Software Full Stack",
-  description: "CEO da Daring Tech e LabsDev, sou programador com ampla experiência em desenvolvimento de soluções tecnológicas inovadoras. Especializado em transformar desafios complexos em resultados eficientes, sempre focado em antecipar tendências e criar ferramentas que impulsionam empresas a liderar no cenário digital. Atuo como professor na Universidade Anhanguera, já atuei como professor no Sesc/Senac Arapongas, e atual Coordenador da Governança de Inovação NinhoTech de Arapongas",
+  description: "CEO da Daring Tech e LabsDev, sou programador com ampla experiência em desenvolvimento de soluções tecnológicas inovadoras. Especializado em transformar desafios complexos em resultados eficientes, sempre focado em antecipar tendências e criar ferramentas que impulsionam empresas a liderar no cenário digital. Atuo como professor na Universidade Anhanguera, já atuei como professor no Sesc/Senac Arapongas, Relações Institucionais da Governança de Inovação NinhoTech de Arapongas",
   email: 'thiago.lopes@thiagolopesdev.com.br',
   phone: '+5543999521823',
   address: 'Arapongas - Paraná ',
