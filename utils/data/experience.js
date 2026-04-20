@@ -8,7 +8,7 @@ export const experiences = [
   {
     id: 2,
     title: "Programador Web Frontend",
-    company: "Frameworks: Angular, Nextjs",
+    company: "Frameworks: Angular, Nextjs, React",
     // duration: ""
   },
   {
